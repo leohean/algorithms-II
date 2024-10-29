@@ -1,0 +1,6 @@
+Ponteiros são uma estrutura de dado
+Int tem 4 bytes
+Char tem 1 byte
+Vamos passar em ATP2
+É possível usar o malloc junto com ponteiros
+Um ponteiro é declarado void inicialmente pode ser desreferenciado

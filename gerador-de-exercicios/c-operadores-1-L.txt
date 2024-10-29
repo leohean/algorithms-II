@@ -1,0 +1,4 @@
+O + serve para ________ variáveis
+O - serve para ________ variáveis
+O * serve para ________ variáveis
+O % serve para calcular o ________ da divisão

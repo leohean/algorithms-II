@@ -1,0 +1,6 @@
+C não tem ponteiro
+Char tem 2 bytes
+Fread só funciona pra arquivo texto
+O & não tem uso em ponteiros
+Ponteiros do relógio são iguais aos ponteiros em c
+O operador & só pode ser usaddo em constantes

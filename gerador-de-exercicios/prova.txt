@@ -1,0 +1,24 @@
+1 -) Indique se as seguintes sentenças são falsas ou verdadeiras.Se a resposta for falsa, explique.
+( ) C não tem ponteiro
+( ) Char tem 2 bytes
+( ) Fread só funciona pra arquivo texto
+( ) O & não tem uso em ponteiros
+( ) Ponteiros do relógio são iguais aos ponteiros em c
+( ) Ponteiros são uma estrutura de dado
+( ) O operador & só pode ser usaddo em constantes
+( ) Int tem 4 bytes
+2 -) Assinale a alternativa CORRETA:
+( ) C não tem ponteiro
+( ) Char tem 2 bytes
+( ) Fread só funciona pra arquivo texto
+( ) Ponteiros são uma estrutura de dado
+( ) O & não tem uso em ponteiros
+3 -) Preencha os espaços em cada uma das sentenças:
+O + serve para ________ variáveis
+
+O - serve para ________ variáveis
+
+O * serve para ________ variáveis
+
+O % serve para calcular o ________ da divisão
+
